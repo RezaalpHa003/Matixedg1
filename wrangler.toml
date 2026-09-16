@@ -4,6 +4,6 @@ name = "matixedg"
 main = "worker.js"
 compatibility_date = "2026-09-16"
 
-[[kv_namespaces]]
+[[KV_namespaces]]
 binding = "kv"
 id = "9298410930b44d3a942f74e414526356"
